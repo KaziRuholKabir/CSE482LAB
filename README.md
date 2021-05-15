@@ -1,5 +1,5 @@
-p style="text-align: center;">&nbsp;</p>
 <p style="text-align: center;">&nbsp;</p>
+
 <p align="center"><strong><img src="https://media.dhakatribune.com/uploads/2016/11/nsulogo.jpg" alt="" width="307" height="172" /></strong></p>
 <p align="center"><strong>North South University</strong></p>
 <p align="center">Department of Electrical &amp; Computer Engineering</p>
